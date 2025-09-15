@@ -4,6 +4,7 @@
     "pw:debug": "playwright test --debug",
     "pw:headed": "playwright test --headed",
     "pw:report": "playwright show-report",
+    "pw:report:port": "playwright show-report --port 0",
     "pw:run": "playwright test",
     "pw:run:chromium": "playwright test --project=chromium",
     "pw:run:firefox": "playwright test --project firefox",

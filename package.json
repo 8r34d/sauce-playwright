@@ -1,0 +1,34 @@
+{
+  "name": "sauce-playwright",
+  "scripts": {
+    "pw:debug": "playwright test --debug",
+    "pw:headed": "playwright test --headed",
+    "pw:report": "playwright show-report",
+    "pw:report:port": "playwright show-report --port 0",
+    "pw:run": "playwright test",
+    "pw:run:chromium": "playwright test --project=chromium",
+    "pw:run:firefox": "playwright test --project firefox",
+    "pw:run:webkit": "playwright test --project webkit",
+    "pw:trace": "playwright test --trace on",
+    "pw:ui": "npx playwright test --ui",
+    "test": "playwright test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/8r34d/sauce-playwright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/8r34d/sauce-playwright/issues"
+  },
+  "homepage": "https://github.com/8r34d/sauce-playwright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.55.0",
+    "@types/node": "^24.3.1"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.2"
+  }
+}

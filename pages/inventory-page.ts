@@ -14,7 +14,16 @@ export class InventoryPage {
   }
 
   async addItemToCart(itemName: InventoryItemName) {
-    this.page.getByTestId(AddToCartItemName[itemName]).click();
+    await this.page.getByTestId(AddToCartItemName[itemName]).click();
+  }
+
+  async addItemToCartIsActive(itemName: InventoryItemName) {
+    await expect(
+      this.page.getByTestId(AddToCartItemName[itemName])
+    ).toHaveCount(1);
+    await expect(
+      this.page.getByTestId(RemoveFromCartItemName[itemName])
+    ).toHaveCount(0);
   }
 
   async at() {
@@ -34,6 +43,15 @@ export class InventoryPage {
   }
 
   async removeItemFromCart(itemName: InventoryItemName) {
-    this.page.getByTestId(RemoveFromCartItemName[itemName]).click();
+    await this.page.getByTestId(RemoveFromCartItemName[itemName]).click();
+  }
+
+  async removeItemFromCartIsActive(itemName: InventoryItemName) {
+    await expect(
+      this.page.getByTestId(AddToCartItemName[itemName])
+    ).toHaveCount(0);
+    await expect(
+      this.page.getByTestId(RemoveFromCartItemName[itemName])
+    ).toHaveCount(1);
   }
 }

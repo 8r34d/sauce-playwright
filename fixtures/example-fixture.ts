@@ -5,17 +5,19 @@ import { CheckoutYourInformationPage } from "../pages/checkout-your-information-
 import { CheckoutOverviewPage } from "../pages/checkout-overview-page";
 import { InventoryItemPage } from "../pages/inventory-item-page";
 import { InventoryPage } from "../pages/inventory-page";
+import { ShoppingCartComponent } from "../components/shopping-cart-component";
 
-type CheckoutFlowFixtures = {
+type ExampleFixtures = {
   cartPage: CartPage;
   checkoutCompletePage: CheckoutCompletePage;
   checkoutOverviewPage: CheckoutOverviewPage;
   checkoutYourInformationPage: CheckoutYourInformationPage;
   inventoryItemPage: InventoryItemPage;
   inventoryPage: InventoryPage;
+  shoppingCart: ShoppingCartComponent;
 };
 
-export const test = base.extend<CheckoutFlowFixtures>({
+export const test = base.extend<ExampleFixtures>({
   cartPage: async ({ page }, use) => {
     const cartPage = new CartPage(page);
 
@@ -45,6 +47,11 @@ export const test = base.extend<CheckoutFlowFixtures>({
     const inventoryPage = new InventoryPage(page);
 
     await use(inventoryPage);
+  },
+  shoppingCart: async ({ page }, use) => {
+    const shoppingCart = new ShoppingCartComponent(page);
+
+    await use(shoppingCart);
   },
 });
 export { expect } from "@playwright/test";

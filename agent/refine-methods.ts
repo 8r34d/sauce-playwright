@@ -81,7 +81,7 @@ export async function yourMortgagePreferences(
   options: {
     isFlat: true;
     firstTimeBuyer: true;
-    homeBuyingJourney: RefineHomeBuyingJourney;
+    homeBuyingJourney: "Just researching";
   }
 ) {
   const mortgagePreferencesData = data.refine.yourMortgagePreferences;

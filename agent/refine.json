@@ -1,0 +1,464 @@
+{
+  "aboutYou": {
+    "annualIncome": "50000",
+    "bonusesOvertimeCommission": "5000",
+    "governmentBenefits": "1200",
+    "otherGuaranteedIncome": "2000",
+    "additionalAnnualIncome": true
+  },
+  "addJointApplicant": {
+    "jointApplicantAnnualIncome": "40000",
+    "jointApplicantBonusesOvertimeCommission": "3000",
+    "jointApplicantGovernmentBenefits": "800",
+    "jointApplicantOtherGuaranteedIncome": "1500",
+    "jointApplicantAdditionalAnnualIncome": true
+  },
+  "outgoingsAndCommitments": {
+    "dependents": 2,
+    "creditCardOverdrafts": "3000",
+    "otherMajorMonthlyCommitments": "500",
+    "majorMonthlyCommitments": true
+  },
+  "yourMortgagePreferences": {
+    "deposit": "25000",
+    "term": "25",
+    "isFlat": true,
+    "firstTimeBuyer": true,
+    "homeBuyingJourney": "Just researching"
+  }
+},
+{
+  "aboutYou": {
+    "annualIncome": "50000",
+    "bonusesOvertimeCommission": "5000",
+    "governmentBenefits": "1200",
+    "otherGuaranteedIncome": "2000",
+    "additionalAnnualIncome": true
+  },
+  "addJointApplicant": {
+    "jointApplicantAnnualIncome": "40000",
+    "jointApplicantBonusesOvertimeCommission": "3000",
+    "jointApplicantGovernmentBenefits": "800",
+    "jointApplicantOtherGuaranteedIncome": "1500",
+    "jointApplicantAdditionalAnnualIncome": true
+  },
+  "outgoingsAndCommitments": {
+    "dependents": 2,
+    "creditCardOverdrafts": "3000",
+    "otherMajorMonthlyCommitments": "500",
+    "majorMonthlyCommitments": true
+  },
+  "yourMortgagePreferences": {
+    "deposit": "25000",
+    "term": "25",
+    "isFlat": true,
+    "firstTimeBuyer": true,
+    "homeBuyingJourney": "Viewing properties in person"
+  }
+},
+{
+  "aboutYou": {
+    "annualIncome": "50000",
+    "bonusesOvertimeCommission": "5000",
+    "governmentBenefits": "1200",
+    "otherGuaranteedIncome": "2000",
+    "additionalAnnualIncome": true
+  },
+  "addJointApplicant": {
+    "jointApplicantAnnualIncome": "40000",
+    "jointApplicantBonusesOvertimeCommission": "3000",
+    "jointApplicantGovernmentBenefits": "800",
+    "jointApplicantOtherGuaranteedIncome": "1500",
+    "jointApplicantAdditionalAnnualIncome": true
+  },
+  "outgoingsAndCommitments": {
+    "dependents": 2,
+    "creditCardOverdrafts": "3000",
+    "otherMajorMonthlyCommitments": "500",
+    "majorMonthlyCommitments": true
+  },
+  "yourMortgagePreferences": {
+    "deposit": "25000",
+    "term": "25",
+    "isFlat": true,
+    "firstTimeBuyer": true,
+    "homeBuyingJourney": "Making or made an offer"
+  }
+},
+{
+  "aboutYou": {
+    "annualIncome": "50000",
+    "bonusesOvertimeCommission": "5000",
+    "governmentBenefits": "1200",
+    "otherGuaranteedIncome": "2000",
+    "additionalAnnualIncome": true
+  },
+  "addJointApplicant": {
+    "jointApplicantAnnualIncome": "40000",
+    "jointApplicantBonusesOvertimeCommission": "3000",
+    "jointApplicantGovernmentBenefits": "800",
+    "jointApplicantOtherGuaranteedIncome": "1500",
+    "jointApplicantAdditionalAnnualIncome": true
+  },
+  "outgoingsAndCommitments": {
+    "dependents": 2,
+    "creditCardOverdrafts": "3000",
+    "otherMajorMonthlyCommitments": "500",
+    "majorMonthlyCommitments": true
+  },
+  "yourMortgagePreferences": {
+    "deposit": "25000",
+    "term": "25",
+    "isFlat": true,
+    "firstTimeBuyer": true,
+    "homeBuyingJourney": "Had an offer accepted"
+  }
+},
+{
+  "aboutYou": {
+    "annualIncome": "50000",
+    "bonusesOvertimeCommission": "5000",
+    "governmentBenefits": "1200",
+    "otherGuaranteedIncome": "2000",
+    "additionalAnnualIncome": true
+  },
+  "addJointApplicant": {
+    "jointApplicantAnnualIncome": "40000",
+    "jointApplicantBonusesOvertimeCommission": "3000",
+    "jointApplicantGovernmentBenefits": "800",
+    "jointApplicantOtherGuaranteedIncome": "1500",
+    "jointApplicantAdditionalAnnualIncome": true
+  },
+  "outgoingsAndCommitments": {
+    "dependents": 2,
+    "creditCardOverdrafts": "3000",
+    "otherMajorMonthlyCommitments": "500",
+    "majorMonthlyCommitments": true
+  },
+  "yourMortgagePreferences": {
+    "deposit": "25000",
+    "term": "25",
+    "isFlat": true,
+    "firstTimeBuyer": false,
+    "homeBuyingJourney": "Just researching"
+  }
+},
+{
+  "aboutYou": {
+    "annualIncome": "50000",
+    "bonusesOvertimeCommission": "5000",
+    "governmentBenefits": "1200",
+    "otherGuaranteedIncome": "2000",
+    "additionalAnnualIncome": true
+  },
+  "addJointApplicant": {
+    "jointApplicantAnnualIncome": "40000",
+    "jointApplicantBonusesOvertimeCommission": "3000",
+    "jointApplicantGovernmentBenefits": "800",
+    "jointApplicantOtherGuaranteedIncome": "1500",
+    "jointApplicantAdditionalAnnualIncome": true
+  },
+  "outgoingsAndCommitments": {
+    "dependents": 2,
+    "creditCardOverdrafts": "3000",
+    "otherMajorMonthlyCommitments": "500",
+    "majorMonthlyCommitments": true
+  },
+  "yourMortgagePreferences": {
+    "deposit": "25000",
+    "term": "25",
+    "isFlat": true,
+    "firstTimeBuyer": false,
+    "homeBuyingJourney": "Viewing properties in person"
+  }
+},
+{
+  "aboutYou": {
+    "annualIncome": "50000",
+    "bonusesOvertimeCommission": "5000",
+    "governmentBenefits": "1200",
+    "otherGuaranteedIncome": "2000",
+    "additionalAnnualIncome": true
+  },
+  "addJointApplicant": {
+    "jointApplicantAnnualIncome": "40000",
+    "jointApplicantBonusesOvertimeCommission": "3000",
+    "jointApplicantGovernmentBenefits": "800",
+    "jointApplicantOtherGuaranteedIncome": "1500",
+    "jointApplicantAdditionalAnnualIncome": true
+  },
+  "outgoingsAndCommitments": {
+    "dependents": 2,
+    "creditCardOverdrafts": "3000",
+    "otherMajorMonthlyCommitments": "500",
+    "majorMonthlyCommitments": true
+  },
+  "yourMortgagePreferences": {
+    "deposit": "25000",
+    "term": "25",
+    "isFlat": true,
+    "firstTimeBuyer": false,
+    "homeBuyingJourney": "Making or made an offer"
+  }
+},
+{
+  "aboutYou": {
+    "annualIncome": "50000",
+    "bonusesOvertimeCommission": "5000",
+    "governmentBenefits": "1200",
+    "otherGuaranteedIncome": "2000",
+    "additionalAnnualIncome": true
+  },
+  "addJointApplicant": {
+    "jointApplicantAnnualIncome": "40000",
+    "jointApplicantBonusesOvertimeCommission": "3000",
+    "jointApplicantGovernmentBenefits": "800",
+    "jointApplicantOtherGuaranteedIncome": "1500",
+    "jointApplicantAdditionalAnnualIncome": true
+  },
+  "outgoingsAndCommitments": {
+    "dependents": 2,
+    "creditCardOverdrafts": "3000",
+    "otherMajorMonthlyCommitments": "500",
+    "majorMonthlyCommitments": true
+  },
+  "yourMortgagePreferences": {
+    "deposit": "25000",
+    "term": "25",
+    "isFlat": true,
+    "firstTimeBuyer": false,
+    "homeBuyingJourney": "Had an offer accepted"
+  }
+},
+{
+  "aboutYou": {
+    "annualIncome": "50000",
+    "bonusesOvertimeCommission": "5000",
+    "governmentBenefits": "1200",
+    "otherGuaranteedIncome": "2000",
+    "additionalAnnualIncome": true
+  },
+  "addJointApplicant": {
+    "jointApplicantAnnualIncome": "40000",
+    "jointApplicantBonusesOvertimeCommission": "3000",
+    "jointApplicantGovernmentBenefits": "800",
+    "jointApplicantOtherGuaranteedIncome": "1500",
+    "jointApplicantAdditionalAnnualIncome": true
+  },
+  "outgoingsAndCommitments": {
+    "dependents": 2,
+    "creditCardOverdrafts": "3000",
+    "otherMajorMonthlyCommitments": "500",
+    "majorMonthlyCommitments": true
+  },
+  "yourMortgagePreferences": {
+    "deposit": "25000",
+    "term": "25",
+    "isFlat": false,
+    "firstTimeBuyer": true,
+    "homeBuyingJourney": "Just researching"
+  }
+},
+{
+  "aboutYou": {
+    "annualIncome": "50000",
+    "bonusesOvertimeCommission": "5000",
+    "governmentBenefits": "1200",
+    "otherGuaranteedIncome": "2000",
+    "additionalAnnualIncome": true
+  },
+  "addJointApplicant": {
+    "jointApplicantAnnualIncome": "40000",
+    "jointApplicantBonusesOvertimeCommission": "3000",
+    "jointApplicantGovernmentBenefits": "800",
+    "jointApplicantOtherGuaranteedIncome": "1500",
+    "jointApplicantAdditionalAnnualIncome": true
+  },
+  "outgoingsAndCommitments": {
+    "dependents": 2,
+    "creditCardOverdrafts": "3000",
+    "otherMajorMonthlyCommitments": "500",
+    "majorMonthlyCommitments": true
+  },
+  "yourMortgagePreferences": {
+    "deposit": "25000",
+    "term": "25",
+    "isFlat": false,
+    "firstTimeBuyer": true,
+    "homeBuyingJourney": "Viewing properties in person"
+  }
+},
+{
+  "aboutYou": {
+    "annualIncome": "50000",
+    "bonusesOvertimeCommission": "5000",
+    "governmentBenefits": "1200",
+    "otherGuaranteedIncome": "2000",
+    "additionalAnnualIncome": true
+  },
+  "addJointApplicant": {
+    "jointApplicantAnnualIncome": "40000",
+    "jointApplicantBonusesOvertimeCommission": "3000",
+    "jointApplicantGovernmentBenefits": "800",
+    "jointApplicantOtherGuaranteedIncome": "1500",
+    "jointApplicantAdditionalAnnualIncome": true
+  },
+  "outgoingsAndCommitments": {
+    "dependents": 2,
+    "creditCardOverdrafts": "3000",
+    "otherMajorMonthlyCommitments": "500",
+    "majorMonthlyCommitments": true
+  },
+  "yourMortgagePreferences": {
+    "deposit": "25000",
+    "term": "25",
+    "isFlat": false,
+    "firstTimeBuyer": true,
+    "homeBuyingJourney": "Making or made an offer"
+  }
+},
+{
+  "aboutYou": {
+    "annualIncome": "50000",
+    "bonusesOvertimeCommission": "5000",
+    "governmentBenefits": "1200",
+    "otherGuaranteedIncome": "2000",
+    "additionalAnnualIncome": true
+  },
+  "addJointApplicant": {
+    "jointApplicantAnnualIncome": "40000",
+    "jointApplicantBonusesOvertimeCommission": "3000",
+    "jointApplicantGovernmentBenefits": "800",
+    "jointApplicantOtherGuaranteedIncome": "1500",
+    "jointApplicantAdditionalAnnualIncome": true
+  },
+  "outgoingsAndCommitments": {
+    "dependents": 2,
+    "creditCardOverdrafts": "3000",
+    "otherMajorMonthlyCommitments": "500",
+    "majorMonthlyCommitments": true
+  },
+  "yourMortgagePreferences": {
+    "deposit": "25000",
+    "term": "25",
+    "isFlat": false,
+    "firstTimeBuyer": true,
+    "homeBuyingJourney": "Had an offer accepted"
+  }
+},
+{
+  "aboutYou": {
+    "annualIncome": "50000",
+    "bonusesOvertimeCommission": "5000",
+    "governmentBenefits": "1200",
+    "otherGuaranteedIncome": "2000",
+    "additionalAnnualIncome": true
+  },
+  "addJointApplicant": {
+    "jointApplicantAnnualIncome": "40000",
+    "jointApplicantBonusesOvertimeCommission": "3000",
+    "jointApplicantGovernmentBenefits": "800",
+    "jointApplicantOtherGuaranteedIncome": "1500",
+    "jointApplicantAdditionalAnnualIncome": true
+  },
+  "outgoingsAndCommitments": {
+    "dependents": 2,
+    "creditCardOverdrafts": "3000",
+    "otherMajorMonthlyCommitments": "500",
+    "majorMonthlyCommitments": true
+  },
+  "yourMortgagePreferences": {
+    "deposit": "25000",
+    "term": "25",
+    "isFlat": false,
+    "firstTimeBuyer": false,
+    "homeBuyingJourney": "Just researching"
+  }
+},
+{
+  "aboutYou": {
+    "annualIncome": "50000",
+    "bonusesOvertimeCommission": "5000",
+    "governmentBenefits": "1200",
+    "otherGuaranteedIncome": "2000",
+    "additionalAnnualIncome": true
+  },
+  "addJointApplicant": {
+    "jointApplicantAnnualIncome": "40000",
+    "jointApplicantBonusesOvertimeCommission": "3000",
+    "jointApplicantGovernmentBenefits": "800",
+    "jointApplicantOtherGuaranteedIncome": "1500",
+    "jointApplicantAdditionalAnnualIncome": true
+  },
+  "outgoingsAndCommitments": {
+    "dependents": 2,
+    "creditCardOverdrafts": "3000",
+    "otherMajorMonthlyCommitments": "500",
+    "majorMonthlyCommitments": true
+  },
+  "yourMortgagePreferences": {
+    "deposit": "25000",
+    "term": "25",
+    "isFlat": false,
+    "firstTimeBuyer": false,
+    "homeBuyingJourney": "Viewing properties in person"
+  }
+},
+{
+  "aboutYou": {
+    "annualIncome": "50000",
+    "bonusesOvertimeCommission": "5000",
+    "governmentBenefits": "1200",
+    "otherGuaranteedIncome": "2000",
+    "additionalAnnualIncome": true
+  },
+  "addJointApplicant": {
+    "jointApplicantAnnualIncome": "40000",
+    "jointApplicantBonusesOvertimeCommission": "3000",
+    "jointApplicantGovernmentBenefits": "800",
+    "jointApplicantOtherGuaranteedIncome": "1500",
+    "jointApplicantAdditionalAnnualIncome": true
+  },
+  "outgoingsAndCommitments": {
+    "dependents": 2,
+    "creditCardOverdrafts": "3000",
+    "otherMajorMonthlyCommitments": "500",
+    "majorMonthlyCommitments": true
+  },
+  "yourMortgagePreferences": {
+    "deposit": "25000",
+    "term": "25",
+    "isFlat": false,
+    "firstTimeBuyer": false,
+    "homeBuyingJourney": "Making or made an offer"
+  }
+},
+{
+  "aboutYou": {
+    "annualIncome": "50000",
+    "bonusesOvertimeCommission": "5000",
+    "governmentBenefits": "1200",
+    "otherGuaranteedIncome": "2000",
+    "additionalAnnualIncome": true
+  },
+  "addJointApplicant": {
+    "jointApplicantAnnualIncome": "40000",
+    "jointApplicantBonusesOvertimeCommission": "3000",
+    "jointApplicantGovernmentBenefits": "800",
+    "jointApplicantOtherGuaranteedIncome": "1500",
+    "jointApplicantAdditionalAnnualIncome": true
+  },
+  "outgoingsAndCommitments": {
+    "dependents": 2,
+    "creditCardOverdrafts": "3000",
+    "otherMajorMonthlyCommitments": "500",
+    "majorMonthlyCommitments": true
+  },
+  "yourMortgagePreferences": {
+    "deposit": "25000",
+    "term": "25",
+    "isFlat": false,
+    "firstTimeBuyer": false,
+    "homeBuyingJourney": "Had an offer accepted"
+  }
+}
